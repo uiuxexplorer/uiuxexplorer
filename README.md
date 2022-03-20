@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uiuxexplorer
-- 👀 I’m interested in Free lancing, Coding, Product design, Product building and Product delivering.
+- 👀 I’m interested in Free lancing, Mobile application development, Product design, Product building and Product delivering.
 - 🌱 I’m currently learning MAUI
 - 💞️ I’m looking to collaborate on any open source development and projects development
 - 📫 How to reach me - uiuxdeveloper@gmail.com
